@@ -7,7 +7,8 @@ Please double check, no guarantee that the list is correct or complete.
 #### Bessie Smith
 Died 1937 according to https://en.wikipedia.org/wiki/Bessie_Smith
 ##### Resources
-- https://archive.org/details/cd_bessie-smith_bessie-smith
+- [Bessie Smith](https://archive.org/details/cd_bessie-smith_bessie-smith)
+- [The Complete Bessie Smith 1923](https://archive.org/details/cd_the-complete-bessie-smith-1923_bessie-smith)
 ### Rock & Roll
 #### Bertha Hill
 Died 1950 according to https://en.wikipedia.org/wiki/List_of_deaths_in_rock_and_roll_(1950s)
