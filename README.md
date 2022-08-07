@@ -22,7 +22,6 @@ Died 1937 according to https://en.wikipedia.org/wiki/George_Gershwin
 ##### Resources
 - [Rhapsody in Blue](https://commons.m.wikimedia.org/wiki/File:US_Marine_Band_Rhapsody_in_Blue.oga)
 ## Resources
-### Musopen 
-- https://archive.org/details/MusopenCollectionAsFlac/Bach_GoldbergVariations/JohannSebastianBach-08-GoldbergVariationsBwv.988-Variation7.flac
-### Open Music Archive
-- http://openmusicarchive.org/index.php
+- Musopen https://archive.org/details/MusopenCollectionAsFlac/Bach_GoldbergVariations/JohannSebastianBach-08-GoldbergVariationsBwv.988-Variation7.flac
+- http://openmusicarchive.org/
+- https://www.pdinfo.com/public-domain-music-list.php
