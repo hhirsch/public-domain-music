@@ -1,5 +1,5 @@
 # Public Domain Music
-In the EU the rule is Authors year of death + 70 years.
+In the EU the rule for a work to be in the public domain is Authors year of death + 70 years.
 So that means that in 2022 that will put us at 1952, 1951 to be sure.
 Please double check, no guarantee that the list is correct or complete.
 ## List of Artist
